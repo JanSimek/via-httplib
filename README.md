@@ -8,6 +8,10 @@ aims to provide a simple, secure and efficient server that complies with the
 requirements of [rfc7230](https://tools.ietf.org/html/rfc7230)
 wherever possible.
 
+# NOTE: This branch is deprocated.
+# The main branch supports "standalone" asio now.
+# Please use it instead.
+
 ### SSL / TLS Configuration
 
 The server is `via::http_server`, a class template requiring a
